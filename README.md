@@ -1,4 +1,4 @@
-# ejy-supplier
+# vue-project-demo
 
 ## Project setup
 ```
